@@ -1,2 +1,3 @@
 # firstwebsite
-This will be a website on an online book store
+Still in progress, this website, would be used to browsw through books and select the best option for you.
+
